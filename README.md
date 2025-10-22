@@ -18,6 +18,27 @@ This project predicts the **compressive strength of concrete** using a **hybrid 
 
 ---
 
+## 📊 Dataset
+
+The dataset used is the **Concrete Compressive Strength Dataset** from **Kaggle**:
+
+- [Concrete Compressive Strength Dataset](https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set)
+
+It contains 1030 samples with 8 features:
+
+- Cement (kg/m³)  
+- Blast Furnace Slag (kg/m³)  
+- Fly Ash (kg/m³)  
+- Water (kg/m³)  
+- Superplasticizer (kg/m³)  
+- Coarse Aggregate (kg/m³)  
+- Fine Aggregate (kg/m³)  
+- Age (days)  
+
+Target: **Concrete compressive strength (MPa)**
+
+---
+
 ## 📊 Model Performance
 
 | Model          | R² Score |
