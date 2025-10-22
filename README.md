@@ -68,9 +68,7 @@ Target: **Concrete compressive strength (MPa)**
 
 concrete_strength_project/
 │
-├─ data/                  # Dataset CSVs
-├─ models/                # Saved model files (.pt, .pkl)
-├─ notebooks/             # Jupyter notebooks for EDA and model development
+├─ notebook/             # Jupyter notebook for EDA and model development
 └─ README.md
 
 ````
